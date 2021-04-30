@@ -1,0 +1,8 @@
+# pengaturan komponen diatur oleh sizer. kalo mau ngatur sendiri, buat di vscode/panel
+
+#semua class harus dimport
+
+#klo panel diShow -> memunculkan data
+klo frame diShow -> windows baru 
+
+#form == kelas
